@@ -1,0 +1,6 @@
+- source: project
+  netlify:
+    - id: 0cab59ab-0232-4890-b15e-a4e4e9a0788c
+      url: 'https://famous-klepon-7963a2.netlify.app'
+    - id: 47bd4998-841d-4aeb-aaf8-6a56c559df97
+      url: 'https://e-prospectiva.netlify.app'

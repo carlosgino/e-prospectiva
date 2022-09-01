@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog\n:::{#hero-heading}\nFinley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sep 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sep 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018\n:::\n\nThis content appears below the formatted about page content."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "e-prospectiva",
+    "section": "",
+    "text": "Reusehttps://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "objectID": "posts/mi-primer-post/index.html",
+    "href": "posts/mi-primer-post/index.html",
+    "title": "Racismo en campaña",
+    "section": "",
+    "text": "Reusehttps://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2\n\n\n\n\n\nReusehttps://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "objectID": "posts/segundo post/index.html",
+    "href": "posts/segundo post/index.html",
+    "title": "Sobremarcha y vacancia",
+    "section": "",
+    "text": "Reusehttps://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\nReusehttps://creativecommons.org/licenses/by/4.0/"
+  }
+]

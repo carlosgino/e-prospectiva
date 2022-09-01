@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>e-prospectiva</title>
+<link>https://e-prospectiva.netlify.app/index.html</link>
+<atom:link href="https://e-prospectiva.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+<description>Datos que matan relatos</description>
+<generator>quarto-1.1.168</generator>
+<lastBuildDate>Wed, 24 Aug 2022 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https://e-prospectiva.netlify.app/posts/post-with-code/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is a post with executable code.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;">1</span> <span class="sc" style="color: #5E5E5E;">+</span> <span class="dv" style="color: #AD0000;">1</span></span></code></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 2</code></pre>
+</div>
+</div>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section></div> ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://e-prospectiva.netlify.app/posts/post-with-code/index.html</guid>
+  <pubDate>Wed, 24 Aug 2022 05:00:00 GMT</pubDate>
+  <media:content url="https://e-prospectiva.netlify.app/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O'Malley</dc:creator>
+  <link>https://e-prospectiva.netlify.app/posts/welcome/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://e-prospectiva.netlify.app/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section></div> ]]></description>
+  <category>news</category>
+  <guid>https://e-prospectiva.netlify.app/posts/welcome/index.html</guid>
+  <pubDate>Sun, 21 Aug 2022 05:00:00 GMT</pubDate>
+  <media:content url="https://e-prospectiva.netlify.app/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Sobremarcha y vacancia</title>
+  <dc:creator>g2s</dc:creator>
+  <link>https://e-prospectiva.netlify.app/posts/segundo post/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="sobremarcha-y-vacancia" class="level1 page-columns page-full">
+<h1><em>Sobremarcha y vacancia</em></h1>
+<p>Han pasado 120 días desde que Pedro Castillo asumió el mando, y lo que se siente en el ambiente es un cansancio de la diatriba fácil y el debate estéril entre el Gobierno y la oposición.</p>
+<p>Mas allá del cambio en la narrativa, no hay ninguna ley qué signifique un cambio de relevancia para los votantes de Castillo. Ambos poderes no tienen frutos notables que mostrar, ambos están desgastados por la continuidad del piloto automático y la corrupción, siguen las mismas practicas con diferentes actores en los mismos escenarios.</p>
+<p>El discurso del cambio suena vacío cuando no haces lo que predicas, como proponer el respeto a la meritocracia y proponer a una tendera para jefa de un organismo regulador. Así como este se han dado muchos otros casos de ejecutivos con más prontuario que currículo.</p>
+<p>El deseo de vacar al presidente ha llevado a que las personas que promueven la vacancia piensen que dando un golpe de Estado desde el Congreso están garantizando la gobernabilidad y estabilidad democrática.</p>
+<p>En la realidad, si la vacancia prospera, nos va a llevar a repetir el ciclo de presidentes con mandato muy corto como lo fueron Vizcarra y Francisco Sagasti. En el anecdotario quedan los pasos de Merino de Lama y Mercedes Araoz.</p>
+<p>En este entorno se ha realizado una marcha contra Castillo, pidiendo su vacancia. Esta marcha del sábado 27N se ha caracterizado por poca asistencia, a pesar del dinero para cubrir los costos de transporte y propaganda. Se reafirma el escaso poder de convocatoria de la derecha peruana y la “perdida” (robo del celular) de un connotado dirigente. ¡¡Imagínense!!, si así se roban fuera del gobierno, ¿que no harán cuando regresen al poder ejecutivo?</p>
+<p>La marcha del 27n puede calificarse de un fracaso porque no le ha dado la relevancia en prensa y medios a su principal promotor y financista Rafael López Aliaga, por el contrario, en esta oportunidad se ha destacado la figura de Patricia Chirinos por encima del acaudalado político.</p>
+<p>Como se puede ver en la siguiente nube de palabras se destaca a Patricia Chirinos por encima de Rafael López Aliaga. En términos del potenciar la intención de votos para una eventual candidatura para la alcaldía de Lima o para la presidencia, este antecedente no fue un buen negocio político.</p>
+<p>Durante la marcha no faltó el espíritu emprendedor del peruano en tiempos de crisis, se han visto fotos de venta de banderas con consignas escritas “no al comunismo”, gente vestida de jokers con los colores blanco y celeste característico del partido renovación popular y una venta de pollada para que los marchantes pueden retomar fuerzas al llegar a casa, entre otros negocios.</p>
+<div class="column-body-outset">
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://e-prospectiva.netlify.app/posts/segundo post/images/sloganspalabras.jpeg" class="img-fluid figure-img" data-group="posts"></p>
+<p></p><figcaption class="figure-caption">palabras y slogans usados</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://e-prospectiva.netlify.app/posts/segundo post/images/vacancianoesgolpe.jpeg" class="img-fluid figure-img" data-group="posts"></p>
+<p></p><figcaption class="figure-caption">vacancia no es golpe</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://e-prospectiva.netlify.app/posts/segundo post/images/Rplot.jpeg" class="img-fluid figure-img" data-group="posts"></p>
+<p></p><figcaption class="figure-caption">nube de puntos</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://e-prospectiva.netlify.app/posts/segundo post/images/numerodecaracteres.jpeg" class="img-fluid figure-img" data-group="posts"></p>
+<p></p><figcaption class="figure-caption">numero caracteres x tuit</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section id="curiosidades" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="curiosidades"><em>Curiosidades</em></h2>
+<p>Desde mi punto de vista hay tres curiosidades que sobresalen en esta marcha. Una congresista que se arrodilla en el estrado, ausencias importantes de los dirigentes – promotores de la vacancia en medios y el robo del celular a un dirigente.</p>
+<p>La promotora de la marcha, la congresista Patricia Chirinos, se arrodilló en el estado para invocar la participación del pueblo peruano en el proceso de vacancia, parece que la congresista no entiende que el amor y el respeto, al igual que los votos y el apoyo popular, se merecen, no se ruegan.</p>
+<p>El histrionismo de los expresidentes Alan García Pérez y Alejandro Toledo nos ha curtido de las grandes poses y pequeños pasos de nuestros políticos incapaces de ofrecer algo más que sacrificios al altar del dinero, sin plan alternativo al de este gobierno, envueltos en el papel de regalo de la sempiterna corrupción.</p>
+<p>A la congresista Patricia le dijeron vacancia para para ti porque tu cerebro está en vacancia hace tiempo y eso se convirtió en un #hashtag muy importante para esta convocatoria de marcha ¨#VacanciaParatuCerebro¨.</p>
+<p>Una característica que quiero destacar es que los grandes promotores de la marcha como los congresistas Roberto Chiabra, Gladys Echaiz, Norma Yarrow, y los dirigentes políticos Keiko Fujimori y Hernando De De Soto no aparecieron en la tarima, a diferencia de Toledo que se subía al estrado, aunque hubiera poco público presente.</p>
+<p>Los actuales antagonistas al Gobierno me hacen recordar a la oposición venezolana cuya actividad proselitista la realizan a través de los medios de comunicación (se autodefinían de ¨mediáticos¨) y esa lejanía les hace conseguir menos votos de los que realmente pudieran obtener porque, como dice el refrán, si no estás en las duras no te aparezcas en las maduras.</p>
+<p>Así, queda demostrado que nuestra tele dirigencia quiere gobernar un país como se ha teledirigido la economía: en piloto automático y con el mínimo esfuerzo. Tan igual como son las ganancias mercantilistas, logradas por ventajas extraeconómicas, con poco o nulo esfuerzo competitivo.</p>
+<p>La DBA no ha entendido, no ha interiorizado, que un pueblo quiere cambios dentro del modelo, no cambio de modelo. Aun así, siguen azuzando el cuco del comunismo dentro de un gobierno que no ha alterado ninguna ley relevante. Que ha cambiado operadores políticos que son infelices aprendices y ejecutores de viejas mañas.</p>
+<p>Finalmente, la marcha cerró con broche de oro, robándose entre ellos un celular cuya información – imagino - es más importante que el valor intrínseco del aparato. No es la primera vez que pasa en la marcha de la DBA, anteriormente, a Lourdes Flores también le robaron el móvil.</p>
+<div class="column-body-outset">
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://e-prospectiva.netlify.app/posts/segundo post/images/procedenciausuarios.jpeg" class="img-fluid figure-img" data-group="posts"></p>
+<p></p><figcaption class="figure-caption">Lima apoya vacancia</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://e-prospectiva.netlify.app/posts/segundo post/images/sin_character.jpeg" class="img-fluid figure-img" data-group="posts"></p>
+<p></p><figcaption class="figure-caption">tuiteros renombrados</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://e-prospectiva.netlify.app/posts/segundo post/images/proporcionentretuits.jpeg" class="img-fluid figure-img" data-group="posts"></p>
+<p></p><figcaption class="figure-caption">proporcion (re)tweets</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://e-prospectiva.netlify.app/posts/segundo post/images/sindifusiontuitosfera.jpeg" class="img-fluid figure-img" data-group="posts"></p>
+<p></p><figcaption class="figure-caption">sin mayor difusion</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="que-cambiar" class="level2">
+<h2 class="anchored" data-anchor-id="que-cambiar"><em>¿Que cambiar?</em></h2>
+<p>A la segunda vuelta llegaron los extremos de izquierda y de derecha en sus peores versiones. La alternativa a un Gobierno que prometió cambiar y no realiza ningún cambio de relevancia debe ser un Congreso más expeditivo en las leyes que promuevan la inversión, que haga control político de los nombramientos en los cargos públicos y que no echen atrás las reformas avanzadas en educación y transporte público.</p>
+<p>Mientras la derecha no se presente como una alternativa real y viva del recuerdo del piloto automático, va a ser poco probable que logren vacar al presidente por medio de los votos del Congreso porque el Congreso no está demostrando ser mejor que el Ejecutivo sino ser la misma casta mediocre que busca preservar sus privilegios a costa de los demás.</p>
+<p>Uno de los aspectos sustanciales del Gobierno de Castillo es que está permitiendo hacer un mejor control ciudadano a los nombramientos en los cargos públicos, un respeto a regañadientes a la meritocracia del puesto.</p>
+<p>Este ejercicio de control social sobre los cargos públicos ojalá quedara como un precedente para que este y futuros gobiernos se sientan presionados a escoger entre personas con currículo en lugar que personas con prontuario, qué es lo que ha venido sucediendo hasta el momento.</p>
+<p>Mayor control ciudadano va a servir para que no se sientan tan confiados que la voluntad popular es un cheque en blanco para los administradores de turno. Para que no usen al Ejecutivo como si fuera su chacra, donde puedan hacer y deshacer a su antojo. Esta es una enseñanza que está quedando de este proceso.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://e-prospectiva.netlify.app/posts/segundo post/images/sentimientos_marchas.jpeg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">sentimientos marcha</figcaption><p></p>
+</figure>
+</div>
+<p>No importa la ideología, ser choro es una actitud nefasta para la gobernabilidad y la convivencia social. En Venezuela, acostumbrarse a la corrupción llevo a los votantes a ser indiferentes a la compra de los militares con prebendas en cargos públicos que le pudieran garantizar al régimen una gobernabilidad basada en las bayonetas. Esa es una consecuencia nefasta de acostumbrarse a la corrupción.</p>
+<p>El Ejecutivo actual está lleno de aprendices de choros mientras que la oposición tiene gente con post grado o phd en la materia. Lo que más molesta no es que haya nuevas mafias porque antes ya había el “club de la construcción”, el caso Odebrecht y los “cuellos blancos”, sino que se predique hacer un cambio y en la práctica se mantienen las mismas prácticas de las que se quiere salir. Eso es lo que molesta, lo que jode.</p>
+
+
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section></div> ]]></description>
+  <guid>https://e-prospectiva.netlify.app/posts/segundo post/index.html</guid>
+  <pubDate>Sun, 28 Nov 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://e-prospectiva.netlify.app/posts/segundo post/images/sloganspalabras.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Racismo en campaña</title>
+  <dc:creator>g2s</dc:creator>
+  <link>https://e-prospectiva.netlify.app/posts/mi-primer-post/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="racismo-o-comunismo" class="level1">
+<h1><strong>¿Racismo o comunismo?</strong></h1>
+<p>¿Como es posible que un término obsoleto como comunismo cobre especial virulencia en la segunda vuelta electoral en Lima y el resto del país? La respuesta solo puedo hallarla en que se ha encubierto el racismo detrás del vocablo comunista.</p>
+<p>Con la lógica binaria que nos manejamos, si decimos que votamos por Castillo ¿eso nos hace automáticamente comunistas?, entonces, votar por Keiko nos convertiría en “delincuentes”, y claramente no es así.</p>
+<p>Se usa el comunismo como una muletilla que nos evita usar el termino racismo. Si, se siente mucho racismo en la campaña. “El profesor no me representa”, “no sabe hablar”, etc. Ciertamente, Castillo es un personaje que rompe el molde de lo que muchos compatriotas sienten debe ser un candidato presidencial.</p>
+<p>Ensayamos con un cuasi extranjero como fue Fujimori, ¿no podemos darle la oportunidad a un peruano? ¡¡Ah, me olvidaba!! Es cholo, serrano, a ese sí no hay que darle oportunidades ¡¡eso no va con el modelo!!</p>
+<p>Se terruquea pensando en el retorno del Partido Comunista “Sendero Luminoso”, que levantó las armas para intentar tomar el poder mediante el terrorismo. No lo logro y esperemos nunca lo haga. Analicemos más allá de lo que dijo el diputado electo Bermejo sobre permanecer en el poder y no soltarlo. Esa una declaración de aspiraciones. Y buenos deseos no preñan, tienen que haber condiciones.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://e-prospectiva.netlify.app/posts/mi-primer-post/https:/saludconlupa.com/media/images/Keiko_Fujimori_y_Pedro_Castillo_.width-1600.format-webp.webp" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">PC en campaña</figcaption><p></p>
+</figure>
+</div>
+<p>Primero, las condiciones iniciales para la lucha armada no están dadas. El terrorismo surge de la masificación de la pobreza extrema como los 80’s, la desinformación y la desintegración comercial. Segundo, no hay plata, hay que repartir dinero a diestra y siniestra para ganar apoyo popular. Tercero, no hay poderes facticos (político, militar, económico, social y cultural) que apoyen abiertamente su candidatura y permanencia en el poder. Cuarto, no hay copamiento de instituciones como Congreso, Fiscalía, TC, Contraloría, y otros que sirven para contrarrestar poder político al gobernante de turno.</p>
+<p>Ciertamente se terruquea por racismo. La tv limeña quiere que la gente de 45 años o más sea presa de sus temores nacidos de sus recuerdos. Que el apego al pasado pese más en su decisión de votar que su esperanza en el futuro, que se inmovilice, que no salga de su zona de confort. El elenco estable de la política peruana tiene temor de perder sus privilegios nacidos en las viejas costumbres de Lima, la capital virreynal.</p>
+<p>Llegar media hora después de la hora pautada para iniciar el debate de Chota, “he tenido que venir hasta aquí”, pedir disculpas a los ex ministros y no al pueblo que padeció sus devastadoras decisiones políticas, son expresiones de una comarca virreynal. Te disculpas ante los blancos que son tus iguales, no ante el pueblo, que son los otros, los invisibilizados de siempre, los inferiores.</p>
+<p>Viví en Venezuela en 1998 cuando un candidato que se opuso al establishment desde la reciedumbre de su porte militar y su lenguaje agresivo. A su lado, Henrique Salas Romer, de porte europeo, ojos azules, colorado y cabello cano, perdió las elecciones. No existía segunda vuelta, el voto no es obligatorio y Hugo Chavez fue electo presidente. No ganó el mejor candidato, sino el que mejor representaba a sus votantes (una mezcla de blanco, negro e indio, en diferentes proporciones) y su voluntad de cambio.</p>
+<p>C. Gino Garibotto Sandoval</p>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section></div> ]]></description>
+  <category>politics</category>
+  <category>analysis</category>
+  <guid>https://e-prospectiva.netlify.app/posts/mi-primer-post/index.html</guid>
+  <pubDate>Tue, 15 Jun 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://saludconlupa.com/media/images/Keiko_Fujimori_y_Pedro_Castillo_.width-1600.format-webp.webp" medium="image" type="image/webp"/>
+</item>
+</channel>
+</rss>
