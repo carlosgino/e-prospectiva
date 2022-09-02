@@ -6,9 +6,9 @@ execute:
   freeze: true
   format: html
   cache: true
+  draft: true
 ---
 
-# *Sobremarcha y vacancia*
 
 Han pasado 120 días desde que Pedro Castillo asumió el mando, y lo que se siente en el ambiente es un cansancio de la diatriba fácil y el debate estéril entre el Gobierno y la oposición.
 
